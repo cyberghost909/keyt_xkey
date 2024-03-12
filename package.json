@@ -1,0 +1,20 @@
+{
+  "name": "keyt_xkey",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cyberghost909/keyt_xkey"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "xyoq_xid": "^1.0.0",
+    "qdgd_xid": "^1.0.0"
+  }
+}
